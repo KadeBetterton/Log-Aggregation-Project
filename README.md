@@ -129,7 +129,8 @@ From the home directory:
 
 ```bash
 cd /home/ubuntu
-wget https://raw.githubusercontent.com/<YOUR_USER>/<YOUR_REPO>/main/cloudsec_monitor.py
+wget https://raw.githubusercontent.com/KadeBetterton/Log-Aggregation-Project/main/cloudsec_monitor.py
+
 ```
 
 Move and make it executable:
