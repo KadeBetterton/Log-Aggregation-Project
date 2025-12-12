@@ -2,6 +2,7 @@
 Digital Forensics final project, a simple python script and instructions on setup and usage. 
 # CloudSec Monitoring Toolkit
 This tool is a simple project meant to demonstrate aggregating logging from a Cloud-Hosted virtual environment, as well as simulating malicious intrusion data. Proceed at your own risk especially concerning downloading and hosting DVWA.
+The workflow here is the procdure I followed to set up my lab environment and complete my project, the python script is very basic and very much so a work in progress. The alerts logging is not very useful but I plan on working on it further when time permits.
 
 Lightweight cloud logging and monitoring lab using:
 - AWS Lightsail (Ubuntu)
