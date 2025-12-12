@@ -55,6 +55,8 @@ Lightweight cloud logging and monitoring lab using:
 5. Name it (for example `CloudSec-Demo`).  
 6. Download the `.pem` key.  
 7. Create the instance.
+8. *********IMPORTANT, CONFIGURE YOUR FIREWALL SETTINGS INSIDE THE LIGHTSAIL DASHBOARD TO ONLY ALLOW TRAFFIC TO AND FROM THE IP OF THE MACHINE YOU ARE ACTUALLY WORKING FROM********************
+   
 
 ### 3.2 Convert `.pem` to `.ppk` (PuTTYgen)
 
